@@ -1,5 +1,10 @@
 # Ventoy ISO Updater v1.0.0
 
+<img width="1175" height="758" alt="image" src="https://github.com/user-attachments/assets/abef847c-0237-4368-ad0f-9e5ec31cf8fc" />
+<img width="1178" height="757" alt="image" src="https://github.com/user-attachments/assets/1a619866-57f6-48ac-9960-c4586043afb9" />
+
+
+
 Профессиональное настольное приложение для автоматического обновления
 ISO-образов на флешках Ventoy. **Подключаете источник — приложение само находит
 последнюю версию, скачивает и записывает её на флешку.**
